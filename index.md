@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ``` 
+- [ ] IPR
+- [ ] bath
+- [ ] homework
